@@ -2,3 +2,12 @@ This is a git repository for Tigerbot. It currently only contains the iPhone app
 
 In time, we will move our googlecode repository (containing our PIC code and ARMcode) over to this github repository.
 
+For more information about Tigerbot, see the wiki at: https://github.com/Flux159/Tigerbot/wiki (or read below):
+
+Tigerbot: "Trajectory-based Intuitive Gesture Enabled Robot"
+
+Tigerbot is an iPhone controlled robot that can follow a path given on the screen. The robot was created using a TI Beagleboard and a custom designed PCB board using 2 PIC microcontrollers. It connects to the iPhone through a USB wifi interface connected to the beagleboard.
+
+To see images of Tigerbot, check out this flickr album: http://www.flickr.com/photos/59841361@N06/sets/72157626335213768/
+
+Tigerbot was created at CMU by Suyog Sonwalkar and Kevin Yuan Li for the ECE Build 18 event, a Carnegie Mellon University Electrical and Computer Engineering department sponsored event in which groups of students can build any project they can think of. For more information on Build18, see http://www.build18.org/.
