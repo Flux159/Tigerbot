@@ -1,0 +1,207 @@
+TTIGERbot
+v7
+r0
+t314229484.584503
+cCheck dependencies
+cProcessInfoPlistFile "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/Info.plist" TIGERbot-Info.plist
+cCompileXIB "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/MainWindow.xib"
+cProcessPCH /var/folders/Ot/OtWcSiN+FR0QfnjTyyjwXk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TIGERbot_Prefix-ftvnvonpjaijnhdlqbmdknxiqilj/TIGERbot_Prefix.pch.gch TIGERbot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/main.o "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/TIGERbotAppDelegate.o "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/TIGERbotAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot" normal i386
+cGenerateDSYMFile "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app.dSYM" "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot"
+cTouch "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/TIGERbotAppDelegate.h
+c000000004D0A8B4C0000000000000150
+t1292536652
+s336
+i<UIKit/UIKit.h>
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/TIGERbotAppDelegate.m
+c000000004D0A8B4C00000000000009D3
+t1292536652
+s2515
+i"TIGERbotAppDelegate.h"
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/MainWindow.xib
+c000000004D0A8B4C000000000000210D
+t1292536652
+s8461
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/TIGERbot_Prefix.pch
+c000000004D0A8B4C00000000000000B9
+t1292536652
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app
+t1292536684
+s204
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app.dSYM
+t1292536684
+s102
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/Info.plist
+t1292536681
+s595
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/MainWindow.nib
+t1292536682
+s1532
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/PkgInfo
+t1292536681
+s8
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot
+t1292536684
+s15744
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/TIGERbot.LinkFileList
+c000000004D0A8B690000000000000135
+t1292536681
+s309
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/TIGERbotAppDelegate.o
+t1292536684
+s46296
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/main.o
+t1292536684
+s6348
+
+N/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/main.m
+c000000004D0A8B4C0000000000000170
+t1292536652
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/Ot/OtWcSiN+FR0QfnjTyyjwXk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TIGERbot_Prefix-ftvnvonpjaijnhdlqbmdknxiqilj/TIGERbot_Prefix.pch.gch
+t1292536683
+s15211536
+
+NTIGERbot-Info.plist
+c000000004D0A8B4C000000000000038D
+t1292536652
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314229481#314229481#0(0"0(0#1#0"8614533248#0"0#
+
+CCompileC build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/TIGERbotAppDelegate.o "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/TIGERbotAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s314229483.962749
+e314229484.185237
+r1
+xCompileC
+xbuild/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/TIGERbotAppDelegate.o
+x/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/TIGERbotAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/TIGERbotAppDelegate.m314229483#314229484#0(0"0(0#0#91"/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/TIGERbotAppDelegate.m8614704224#2247"    cd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-generated-files.hmap" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-own-target-headers.hmap" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-all-target-headers.hmap" -iquote "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-project-headers.hmap" "-F/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/include" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/DerivedSources/i386" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/DerivedSources" -include /var/folders/Ot/OtWcSiN+FR0QfnjTyyjwXk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TIGERbot_Prefix-ftvnvonpjaijnhdlqbmdknxiqilj/TIGERbot_Prefix.pch -c "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/TIGERbotAppDelegate.m" -o "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/TIGERbotAppDelegate.o"0#
+
+CCompileC build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/main.o "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s314229483.961696
+e314229484.184021
+r1
+xCompileC
+xbuild/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/main.o
+x/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/main.m314229483#314229484#0(0"0(0#0#68"/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/main.m8612837408#2209"    cd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-generated-files.hmap" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-own-target-headers.hmap" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-all-target-headers.hmap" -iquote "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-project-headers.hmap" "-F/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/include" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/DerivedSources/i386" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/DerivedSources" -include /var/folders/Ot/OtWcSiN+FR0QfnjTyyjwXk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TIGERbot_Prefix-ftvnvonpjaijnhdlqbmdknxiqilj/TIGERbot_Prefix.pch -c "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/main.m" -o "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/MainWindow.xib"
+s314229481.940769
+e314229482.448052
+r1
+xCompileXIB
+x/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314229481#314229482#0(0"0(0#0#76"/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/MainWindow.xib8611682464#646"    cd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/MainWindow.nib" "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app.dSYM" "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot"
+s314229484.494474
+e314229484.559944
+r1
+xGenerateDSYMFile
+x/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app.dSYM
+x/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/TIGERbot.app.dSYM build/Debug-iphonesimulator/TIGERbot.app/TIGERbot314229484#314229484#0(0"0(0#0#111"/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot8612113664#461"    cd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot" -o "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app.dSYM"0#
+
+CLd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot" normal i386
+s314229484.185322
+e314229484.494375
+r1
+xLd
+x/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot
+xnormal
+xi386
+lSLF07#2@116"Link /Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot314229484#314229484#0(0"0(0#0#0"8608460320#1030"    cd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator" "-F/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator" -filelist "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/Objects-normal/i386/TIGERbot.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/TIGERbot"0#
+
+CProcessInfoPlistFile "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/Info.plist" TIGERbot-Info.plist
+s314229481.918274
+e314229481.940654
+r1
+xProcessInfoPlistFile
+x/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/Info.plist
+xTIGERbot-Info.plist
+lSLF07#2@27"Process TIGERbot-Info.plist314229481#314229481#0(0"0(0#0#81"/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/TIGERbot-Info.plist8612688608#557"    cd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TIGERbot-Info.plist -genpkginfo "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ot/OtWcSiN+FR0QfnjTyyjwXk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TIGERbot_Prefix-ftvnvonpjaijnhdlqbmdknxiqilj/TIGERbot_Prefix.pch.gch TIGERbot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314229482.448171
+e314229483.961517
+r1
+xProcessPCH
+x/var/folders/Ot/OtWcSiN+FR0QfnjTyyjwXk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TIGERbot_Prefix-ftvnvonpjaijnhdlqbmdknxiqilj/TIGERbot_Prefix.pch.gch
+xTIGERbot_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile TIGERbot_Prefix.pch314229482#314229483#0(0"0(0#0#81"/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/TIGERbot_Prefix.pch8614493120#2075"    cd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-generated-files.hmap" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-own-target-headers.hmap" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-all-target-headers.hmap" -iquote "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/TIGERbot-project-headers.hmap" "-F/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/include" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/DerivedSources/i386" "-I/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/TIGERbot.build/Debug-iphonesimulator/TIGERbot.build/DerivedSources" -c "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/TIGERbot_Prefix.pch" -o /var/folders/Ot/OtWcSiN+FR0QfnjTyyjwXk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TIGERbot_Prefix-ftvnvonpjaijnhdlqbmdknxiqilj/TIGERbot_Prefix.pch.gch0#
+
+CTouch "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app"
+s314229484.560034
+e314229484.584458
+r1
+xTouch
+x/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app
+lSLF07#2@108"Touch /Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app314229484#314229484#0(0"0(0#0#0"8610234624#329"    cd "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/build/Debug-iphonesimulator/TIGERbot.app"0#
+

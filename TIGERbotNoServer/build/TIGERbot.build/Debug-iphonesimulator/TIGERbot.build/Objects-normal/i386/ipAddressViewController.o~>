@@ -1,0 +1,7 @@
+/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/ipAddressViewController.m: In function '-[ipAddressViewController switchtodriveview:]':
+/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/ipAddressViewController.m:85: warning: assignment discards qualifiers from pointer target type
+/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/ipAddressViewController.m:89: warning: assignment discards qualifiers from pointer target type
+/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/ipAddressViewController.m:164: warning: receiver 'gestureDriveViewController' is a forward class and corresponding @interface may not exist
+/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/ipAddressViewController.m:171: warning: incompatible Objective-C types 'struct gestureDriveViewController *', expected 'struct UIViewController *' when passing argument 1 of 'pushViewController:animated:' from distinct Objective-C type
+/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/ipAddressViewController.m:180: warning: receiver 'accelerationdriveViewController' is a forward class and corresponding @interface may not exist
+/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/ipAddressViewController.m:187: warning: incompatible Objective-C types 'struct accelerationdriveViewController *', expected 'struct UIViewController *' when passing argument 1 of 'pushViewController:animated:' from distinct Objective-C type

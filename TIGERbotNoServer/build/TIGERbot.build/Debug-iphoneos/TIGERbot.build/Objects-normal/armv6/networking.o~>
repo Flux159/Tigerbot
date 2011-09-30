@@ -1,0 +1,2 @@
+/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/networking.c: In function 'setup_socket':
+/Users/suyogssonwalkar/Documents/iPhone Applications/TIGERbot/Classes/networking.c:148: warning: unused variable 'ip'
